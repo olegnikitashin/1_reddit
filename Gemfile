@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0'
 gem 'devise', group: :doc
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'acts_as_votable', '~> 0.10.0'
 
 group :development, :test do
   gem 'byebug'
